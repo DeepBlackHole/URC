@@ -2,7 +2,7 @@
  
  
  ## Description
- The Universal Remote Control is a versatile device designed to simplify how you interact with various home appliances.
+ The Universal Remote Control is a cool tool that lets you control all your home gadgets, like your TV and lights, with just one remote. 
 
 ## Functions 
 * Device Compatibility
